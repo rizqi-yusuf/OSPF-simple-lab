@@ -13,8 +13,7 @@
 <br />
 
 ## 📸 Network Topology Diagram
-<img width="894" height="363" alt="{64A8C974-07CA-42CD-89F5-009545F2531B}" src="https://github.com/user-attachments/assets/433ead00-ceee-4d13-a705-bd2aa1c009fd" />
-
+<img width="902" height="365" alt="{E06775AB-51F6-4168-8D54-77300F6CAEBD}" src="https://github.com/user-attachments/assets/71ba9623-38b1-4191-9008-c0e2aa8b65da" />
 
 ## 📖 Project Overview
 This repository contains a fully functional, enterprise-grade network topology simulation. The architecture is built on a **High-Availability Ring Backbone** using 3 routers (Dev, CS, and DATA). It demonstrates industry-standard practices including Variable Length Subnet Masking (VLSM) for point-to-point WAN links, dynamic routing, and strict traffic segmentation between Data and Voice networks.
